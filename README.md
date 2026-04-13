@@ -2,7 +2,7 @@
  Apaixonado por tecnologia e programação, com foco em desenvolvimento em Java.
 
 ---
-https://i.pinimg.com/originals/a0/10/d9/a010d97c5a551c1e862b7ff69f294d7a.gif
+![gif](https://i.pinimg.com/originals/a0/10/d9/a010d97c5a551c1e862b7ff69f294d7a.gif)
 
 ## Sobre mim
 
@@ -15,7 +15,7 @@ Tenho facilidade em trabalhar em equipe, sou comunicativo e estou sempre aberto 
 
 ## Tecnologias e conhecimentos
 
-  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+  <img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"alt=java/>
 - Programação Orientada a Objetos (POO)  
 - Lógica de programação  
 
