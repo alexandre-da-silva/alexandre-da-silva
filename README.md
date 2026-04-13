@@ -15,7 +15,7 @@ Tenho facilidade em trabalhar em equipe, sou comunicativo e estou sempre aberto 
 
 ## Tecnologias e conhecimentos
 
-  <img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"alt="java"/>
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="300"/>
 - Programação Orientada a Objetos (POO)  
 - Lógica de programação  
 
