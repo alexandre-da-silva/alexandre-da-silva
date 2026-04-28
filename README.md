@@ -1,15 +1,13 @@
 # 👋 Olá, eu sou estudante de Análise e Desenvolvimento de Sistemas
- Apaixonado por tecnologia e programação, com foco em desenvolvimento em Java.
 
 ---
 ![gif](https://i.pinimg.com/originals/a0/10/d9/a010d97c5a551c1e862b7ff69f294d7a.gif)
 
 ## Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com grande interesse em evoluir constantemente na área de tecnologia.  
-Gosto de aprender na prática, resolvendo problemas e entendendo como os sistemas funcionam por trás.
+Sou estudante de Análise e Desenvolvimento de Sistemas
 
-Tenho facilidade em trabalhar em equipe, sou comunicativo e estou sempre aberto a aprender com outras pessoas e com meus próprios erros.
+Tenho facilidade em trabalhar em equipe,aprender com outras pessoas e com meus próprios erros.
 
 ---
 
@@ -17,7 +15,6 @@ Tenho facilidade em trabalhar em equipe, sou comunicativo e estou sempre aberto 
 
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="150"/>
  <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqFNtM0BMUixQYy8k4ih4sVS-GONo8Cplo9g&s" width="150"/>
-- Programação Orientada a Objetos (POO)  
 - Lógica de programação  
 
 
@@ -27,7 +24,8 @@ Tenho facilidade em trabalhar em equipe, sou comunicativo e estou sempre aberto 
 
 - Desenvolvimento de sistemas  
 - Boas práticas de programação  
-- Estruturação de projetos  
+- Estruturação de projetos
+- SpringBoot
 
 ---
 
